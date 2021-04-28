@@ -1,3 +1,4 @@
+:----:
 # Move-it
 ## Uma plataforma que vai te ajudar a produzir muito melhor!
 
